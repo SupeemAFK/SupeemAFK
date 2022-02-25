@@ -4,7 +4,6 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -63,6 +62,5 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
 
-Last Edited on: 30/08/2020
+Last Edited on: 26/02/2022
