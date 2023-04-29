@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://avatars.githubusercontent.com/u/83326313?s=400&u=34e1bed56dc22ca0149cda43b49c0e4e63850f13&v=4" width="30px"></h2>
- <h3>I'm working on Game Development, Full stack Development (currently learning AI and Data analytics)</h3>
+ <h3>I'm working on Game Development🎮, Full stack Development🌐 (currently learning AI and Data analytics🤖)</h3>
 </div>
 
 <div align="center" width="50">
