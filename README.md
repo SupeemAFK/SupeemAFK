@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 
 <div align="center">
 
-[![SupeemAFK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupeemAFK&include_all_commits=true&theme=midnight-purple)](https://github.com/SupeemAFK/github-readme-stats)
+[![SupeemAFK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupeemAFK&theme=midnight-purple)](https://github.com/SupeemAFK/github-readme-stats)
 
 </br>
 </br>
