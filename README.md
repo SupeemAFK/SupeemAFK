@@ -1,8 +1,8 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋</h2>
  <h2>I'm working on</h3>
- <h3> Game Developer🎮</h5>
- <h3> Full stack/Mobile Application Developer🌐</h5>
+ <h3> Game Development🎮</h5>
+ <h3> Full stack/Mobile Application Development🌐</h5>
  <h3>AI and Data analytics Learner🤖</h5>
 </div>
 
