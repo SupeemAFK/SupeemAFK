@@ -24,7 +24,7 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 <div align="center">
 
 [![SupeemAFK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupeemAFK&theme=midnight-purple)](https://github.com/SupeemAFK/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupeemAFK&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupeemAFK&layout=donut&theme=midnight-purple&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 </br>
