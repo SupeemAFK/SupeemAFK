@@ -21,6 +21,29 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 
 </div>
 
+## Skills
+### Languages
+- Javascript, Typescript, Dart, GO, C, C++, C#, Java, Python
+
+### Software Development
+- Frontend (React, Next, Vue, Nuxt, Angular, Svlete, SvleteKit, React Native, Flutter)
+- Backend (ExpressJS, Elysia, NestJS, .NET, Gin, GraphQL, Apollo Server, Django, FastAPI, FlaskAPI)
+  
+#### Databases
+- MongoDB, Redis, MySQL, Postgresql, Firebase, Supabase, Pocketbase
+
+### Tools
+- Git, Github, Postman, Apollo, Docker
+
+### Game Development
+- Unity, Unreal Engine
+
+### Data science and Machine Learning
+- Python, Pandas, Tensorflow, Pytorch
+
+## Learning
+- Godot, NLP Research, DevOps
+
 <div align="center">
 
 [![SupeemAFK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupeemAFK&theme=midnight-purple)](https://github.com/SupeemAFK/github-readme-stats)
@@ -34,5 +57,4 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 
 </div>
 
-
-Last Edited on: 06/05/2024
+Last Edited on: 06/23/2024
