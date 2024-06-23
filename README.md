@@ -30,7 +30,7 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 - Backend (ExpressJS, Elysia, NestJS, .NET, Gin, GraphQL, Apollo Server, Django, FastAPI, FlaskAPI)
   
 ### Databases
-- MongoDB, Redis, MySQL, Postgresql, Firebase, Supabase, Pocketbase
+- MongoDB, Redis, Prisma, TypeORM, MySQL, Postgresql, Firebase
 
 ### Tools
 - Git, Github, Postman, Apollo, Docker
