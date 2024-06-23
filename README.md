@@ -29,7 +29,7 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 - Frontend (React, Next, Vue, Nuxt, Angular, Svlete, SvleteKit, React Native, Flutter)
 - Backend (ExpressJS, Elysia, NestJS, .NET, Gin, GraphQL, Apollo Server, Django, FastAPI, FlaskAPI)
   
-#### Databases
+### Databases
 - MongoDB, Redis, MySQL, Postgresql, Firebase, Supabase, Pocketbase
 
 ### Tools
