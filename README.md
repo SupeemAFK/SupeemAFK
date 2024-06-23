@@ -41,8 +41,8 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 ### Data science and Machine Learning
 - Python, Pandas, Tensorflow, Pytorch
 
-## Learning
-- Godot, NLP Research, DevOps
+### Currently Learning
+- Godot, NLP Research, DevOps, Elixir, Rust
 
 <div align="center">
 
