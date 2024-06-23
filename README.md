@@ -26,7 +26,7 @@ Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>h
 - Javascript, Typescript, Dart, GO, C, C++, C#, Java, Python
 
 ### Software Development
-- Frontend (React, Next, Vue, Nuxt, Angular, Svlete, SvleteKit, React Native, Flutter)
+- Frontend (React, Next, Vue, Nuxt, Angular, Svelte, SvelteKit, React Native, Flutter)
 - Backend (ExpressJS, Elysia, NestJS, .NET, Gin, GraphQL, Apollo Server, Django, FastAPI, FlaskAPI)
   
 ### Databases
