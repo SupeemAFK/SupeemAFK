@@ -6,8 +6,7 @@
 
 **Software Engineer | Infrastructure (SRE/DevOps)**
 
-<a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>Contact Me</b></a> • 
-<a href="#stats"><b>View Stats</b></a>
+<a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>Contact Me</b></a> •  <a href="#stats"><b>View Stats</b></a>
 
 </div>
 
