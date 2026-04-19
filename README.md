@@ -1,60 +1,56 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋</h2>
- <h2>I'm working on</h3>
- <h3> Game Development🎮</h5>
- <h3> Full stack/Mobile Application Development🌐</h5>
- <h3>AI and Data analytics Learner🤖</h5>
-</div>
 
-<div align="center" width="50">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="developer" />
+![Crystal Eyes of Passion](./bluerose.gif)
 
-</div>
+<h2>Hello there, fellow &lt;developers/&gt;! 👋</h2>
 
-<div align="center">
+**Software Engineer | Infrastructure (SRE/DevOps)**
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>here</b></a><br>
-
-<i>Happy Coding!</i> 😊
+<a href="https://github.com/SupeemAFK/SupeemAFK/issues/new"><b>Contact Me</b></a> • 
+<a href="#stats"><b>View Stats</b></a>
 
 </div>
 
-## Skills
-### Languages
-- Javascript, Typescript, Dart, GO, C, C++, C#, Java, Python
+---
 
-### Software Development
-- Frontend (React, Next, Vue, Nuxt, Angular, Svelte, SvelteKit, React Native, Flutter)
-- Backend (ExpressJS, Elysia, NestJS, .NET, Gin, GraphQL, Apollo Server, Django, FastAPI, FlaskAPI)
-  
-### Databases
-- MongoDB, Redis, Prisma, TypeORM, MySQL, Postgresql, Firebase
+### 🚀 About Me
 
-### Tools
-- Git, Github, Postman, Apollo, Docker
+My core philosophy is simple: **I love learning and having FUN with Programming Concepts, Optimization, Systems Design, Engineering, and Math.** While my main career pillar is Software Engineering and scaling infrastructure (SRE/DevOps), I am incredibly curious and always exploring new domains. When I am not optimizing my code or fixing Kubernetes cluster, you can usually find me:
 
-### Game Development
-- Unity, Unreal Engine
+* 🎮 **Playing & Creating:** Diving into indie game dev and playing games.
+* 🤖 **Tinkering:** Exploring AI/ML, NLP research, and robotics.
+* 📚 **Reading:** Constantly reading books to pick up new mental models and skills.
 
-### Data science and Machine Learning
-- Python, Pandas, Tensorflow, Pytorch
+---
 
-### Currently Learning
-- Godot, NLP Research, DevOps, Elixir, Rust
-
-<div align="center">
-
-[![SupeemAFK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupeemAFK&theme=midnight-purple)](https://github.com/SupeemAFK/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupeemAFK&layout=donut&theme=midnight-purple&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+### 🏗️ Engineering Stack & Domains
 
 
+* **⚙️ SRE, DevOps & Infra:** `Kubernetes`, `Docker`, `Linux`, `Bash` 
+    * *Focus: On-Prem Self-Hosting, High Availability, Scaling Infrastructure, Observability, and CI/CD pipelines.*
+
+* **🧠 Backend Engineering:** `Go`, `Python`, `Rust`, `TypeScript`, `Elixir`
+    * *Focus: Microservices, Optimization, System Design, API Design (`FastAPI`, `Gin`, `NestJS`, `Elysia`).*
+
+* **🗄️ Data Architecture:** `PostgreSQL`, `Redis`, `MongoDB`
+    * *Focus: High-availability storage, Data Modeling, ORMs (`Prisma`, `TypeORM`).*
+
+* **🎨 Frontend & Mobile:** `React`, `Next`, `Angular`, `SvelteKit`, `Flutter`, `Vue`, `Nuxt`
+    * *Focus: Cross-platform application development, SSR, and intuitive UI/UX.*
+
+* **💻 Core Languages:** `C`, `C++`, `C#`, `Java`, `Dart`, `Typescript`, `GO`, `Python`, `.sh`
+
+* **🔬 AI, Data & Game Dev:** `PyTorch`, `Pandas`, `Math`, `Godot`, `Unity`, `Unreal Engine`
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center" id="stats">
+
+[![SupeemAFK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupeemAFK&theme=midnight-purple&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/SupeemAFK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupeemAFK&layout=donut&theme=midnight-purple&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+<sub>Last Edited on: 04/19/2026</sub>
 </div>
-
-Last Edited on: 06/23/2024
